@@ -1,6 +1,6 @@
 {
   "name": "com.febucci.custom-hierarchy",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "displayName": "Custom Hierarchy for Unity",
   "description": "This package lets you draw a clearer Hierarchy in Unity, organizing everything in a \u201ctree view\u201d and including extra informations like Components Icons and groups/divisors",
   "unity": "2018.3",
@@ -9,7 +9,7 @@
     "febucci"
   ],
   "author": {
-    "name": "Febucci",
+    "name": "Febucci, packentu",
     "url": "https://www.febucci.com/"
   }
 }
